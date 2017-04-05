@@ -2,8 +2,8 @@
 1. [Background](README.md#background)
 2. [Running the program](README.md#running-the-program)
 3. [Dependencies](README.md#dependencies)
-4. [Generated output](README.md#generated_output)
-5. [Completed testing](README.md#completed_testing)
+4. [Generated output](README.md#generated-output)
+5. [Completed testing](README.md#completed-testing)
 
 
 # Background
