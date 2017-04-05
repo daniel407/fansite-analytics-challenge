@@ -1,0 +1,9 @@
+p12.haifa1.actcom.co.il - - [07/Jul/1995:17:49:26 -0400] "GET /shuttle/resources/orbiters/�b�
+HTTP/1.0" 404 -
+klothos.crl.research.digital.com - - [10/Jul/1995:16:45:50 -0400] "" 400 -
+202.251.172.60 - - [14/Jul/1995:04:10:23 -0400] "GET /shuttle/missions/sts-65/mission-sts-65.htmlh����������|
+|(� HTTP/1.0" 404 -
+firewall.dfw.ibm.com - - [20/Jul/1995:07:34:34 -0400] "1/history/apollo/images/" 400 -
+firewall.dfw.ibm.com - - [20/Jul/1995:07:53:24 -0400] "1/history/apollo/images/" 400 -
+128.159.122.20 - - [20/Jul/1995:15:28:50 -0400] "k��tx��tG��t̓�" 400 -
+128.159.122.20 - - [24/Jul/1995:13:52:50 -0400] "k��tx��tG��t̓�" 400 -
