@@ -1,5 +1,5 @@
 # Table of Contents
-1. [Challenge Summary](README.md#challenge-summary)
+1. [Background](README.md#Background)
 2. [Details of Implementation](README.md#details-of-implementation)
 3. [Download Data](README.md#download-data)
 4. [Description of Data](README.md#description-of-data)
